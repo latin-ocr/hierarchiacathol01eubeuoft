@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hierarchiacathol01eubeuoft_0077.png"; bbox 0 0 2482 3178; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 842 797 1547 873">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 842 797 1547 873">
+     <span class='ocr_line' id='line_1_1' title="bbox 842 797 1547 873; baseline 0.017 -12"><span class='ocrx_word' id='word_1_1' title='bbox 842 797 1082 865; x_wconf 85' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_2' title='bbox 1134 801 1547 873; x_wconf 63' lang='lat' dir='ltr'>SECUNDUS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 105 1115 2262 1758">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 105 1115 2262 1758">
+     <span class='ocr_line' id='line_1_2' title="bbox 1112 1115 1272 1218; baseline 0.025 -3"><span class='ocrx_word' id='word_1_3' title='bbox 1112 1115 1272 1218; x_wconf 87' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 105 1368 2262 1522; baseline 0.015 -51"><span class='ocrx_word' id='word_1_4' title='bbox 105 1368 1042 1503; x_wconf 46' lang='lat' dir='ltr'><strong>PATRIARCHI&amp;</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1138 1383 2262 1522; x_wconf 71' lang='lat' dir='ltr'><strong>AROHOEPISOOPIS,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 839 1647 1525 1758; baseline 0.013 -11"><span class='ocrx_word' id='word_1_6' title='bbox 839 1647 1525 1758; x_wconf 68' lang='lat' dir='ltr'><strong>EPISOOPIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 790 2119 1631 2171">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 790 2119 1631 2171">
+     <span class='ocr_line' id='line_1_5' title="bbox 790 2119 1631 2171; baseline 0.014 -7"><span class='ocrx_word' id='word_1_7' title='bbox 790 2140 795 2141; x_wconf 24' lang='grc' dir='ltr'><em>ν</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 866 2119 1311 2171; x_wconf 44' lang='lat' dir='ltr'><strong>W—ffla&#39;snzz·</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1397 2147 1403 2148; x_wconf 26' lang='lat' dir='ltr'><em>ff</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1440 2148 1631 2151; x_wconf 28' lang='lat' dir='ltr'><strong>ffi—</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
